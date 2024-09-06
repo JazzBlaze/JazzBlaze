@@ -14,7 +14,7 @@ I'm Thejas Sanjeev, a 20-year-old Indian developer! (stereotypical, I know !). I
 Currently in the 6th semester of my undergrad in Computer Science and Engineering at Vellore Institute of Technology,India. Curious about ML models and new web technologies. So, whether you're here to admire my work or just looking for some code-related banter, welcome to my corner of the internet!
 Let's build some magic together.
 
-💻 &nbsp; Check out my portfolio for more : https://thejas-sanjeev.me/
+💻 &nbsp; Check out my portfolio for more : https://thejas-sanjeev.vercel.app/
 
 <h2 align="center">My Stats</h2>
 
