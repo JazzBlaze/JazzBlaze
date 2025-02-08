@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-I'm Thejas Sanjeev, a 20-year-old Indian developer! (stereotypical, I know !). I'm passionate about creating pixel-perfect, user-friendly webApps & softwares that are as smooth as butter chicken. With a keyboard in one hand and a cup of coffee in the other, I'm on a mission to make the web a better place, one line of code at a time.
+I'm Thejas Sanjeev, a 22-year-old Indian developer! (stereotypical, I know !). I'm passionate about creating pixel-perfect, user-friendly webApps & softwares that are as smooth as butter chicken. With a keyboard in one hand and a cup of coffee in the other, I'm on a mission to make the web a better place, one line of code at a time.
 
 Currently in the 6th semester of my undergrad in Computer Science and Engineering at Vellore Institute of Technology,India. Curious about ML models and new web technologies. So, whether you're here to admire my work or just looking for some code-related banter, welcome to my corner of the internet!
 Let's build some magic together.
